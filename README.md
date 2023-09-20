@@ -2,7 +2,6 @@
 
 I'm a passionate programmer ✨. My journey in the world of software development has been an exciting one, and I'm always eager to learn and explore new technologies.
 
-- 🌐 I'm from Bangkok, Thailand.
 - 💼 I'm currently working at Ydm Thailand as a Head backend team.
 - 🌱 I’m currently learning golang
 - 🚀 I'm always working on personal projects to expand my skills and knowledge.

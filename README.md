@@ -1,11 +1,5 @@
 ### Hi there , I'm [captkz] 👋
 
-I'm a programmer ✨. My journey in the world of software development has been an exciting one, and I'm always eager to learn and explore new technologies.
-
-- 💼 I'm currently working as a Head prgrammers backend team.
-- 🌱 I’m currently learning golang
-- 🚀 I'm always working on personal projects to expand my skills and knowledge.
-- 👯 I’m looking to collaborate on new company
 - 💬 Ask me about ...
 
 ## ⚡ Technologies & Tools
@@ -20,12 +14,6 @@ Here are some of the technologies and tools I work with:
 [nestjs](https://nestjs.com)
 [nextjs](https://nextjs.org)
 and a lot ..
-
-## 🌱 What I'm Learning
-
-I'm currently focused on:
-
-- 📚 Learning golang.
 
 ## 📊 GitHub Stats
 

@@ -114,4 +114,6 @@ _(These are supporting skills, not primary focus areas.)_
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=captainkie&layout=compact)
+☕ [Buy me a coffee](https://buymeacoffee.com/captainkiez)
+
+---

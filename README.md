@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Senior Backend / Fullstack Engineer
+# 👋 Hi, I'm a Senior Backend / Fullstack Engineer (Work Current role: Head of Backecnd Programer)
 
 Backend-driven engineer with strong experience in **CMS, E-commerce, and system integration**.  
 I specialize in building, maintaining, and stabilizing **real-world production systems**, including complex and legacy codebases.
